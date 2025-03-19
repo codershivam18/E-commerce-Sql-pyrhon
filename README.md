@@ -1,1 +1,1 @@
-# E-commerce-Sql-pyrhon
+# E-commerce-Sql-python
